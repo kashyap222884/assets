@@ -1,0 +1,14 @@
+{
+    "name": "Nordeks",
+    "website": "https://nordekscan.com/",
+    "description": "An open network based on Ethereum protocol with Proof of Authority consensus by independent actors. Public notaries with known identity serve as private validators to secure the network.",
+    "explorer": "https://nordekscan.com/",
+    "research": "",
+    "symbol": "NRK",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        
+    ]
+}
