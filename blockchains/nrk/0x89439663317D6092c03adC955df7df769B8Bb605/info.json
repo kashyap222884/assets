@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped USDT",
+    "symbol": "WUSDT",
+    "type": "ERC-20",
+    "decimals": 6,
+    "description": "-",
+    "website": "",
+    "explorer": "https://nordekscan.com/token/0x89439663317D6092c03adC955df7df769B8Bb605",
+    "status": "active",
+    "id": "0x89439663317D6092c03adC955df7df769B8Bb605"
+}
